@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><h2>I am a software developer with a strong foundation in Java and full-stack development. I have experience working with Spring Boot and React to build scalable and secure applications, along with a good understanding of REST APIs and backend systems.<br><br>I am focused on improving my skills in system design, problem-solving, and building efficient, real-world applications. I am eager to contribute to a challenging environment where I can apply my knowledge and continue to grow as a developer.<h2><br>
+<br><h2>I am a software developer with a strong foundation in Java and full-stack development. I have experience working with Spring Boot and React to build scalable and secure applications, along with a good understanding of REST APIs and backend systems.<br><br>I am focused on improving my skills in system design, problem-solving, and building efficient, real-world applications. I am eager to contribute to a challenging environment where I can apply my knowledge and continue to grow as a developer.<h2><br>
 
 
 ## 🌐 Socials:
